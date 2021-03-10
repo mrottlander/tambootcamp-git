@@ -3,7 +3,7 @@
 # add a third comment
 # add a fourth comment
 # file:  hello-world.go
-# description:  my very first go program
+# description:  my very first go program edited
 
 package main
 import "fmt"
